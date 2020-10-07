@@ -16,6 +16,7 @@ public class AdiosMundo {
      */
     public static void main(String[] args) {
         System.out.println("primer prueba");
+        System.out.println("prueba 2");
     }
     
 }
